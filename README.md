@@ -81,7 +81,8 @@ Peptide_ConfSearch/
 ### 1. Generate Optimized Configuration Files
 
 ```bash
-python COM_ConfSearch.py
+python PepGeneration.py # to generate diverse 3-12-mer peptides
+python COM_ConfSearch.py # to create size-based configuration 
 ```
 
 This creates optimized `.com` files for all peptide lengths (3-12 mers) with parameters tuned for maximum conformational diversity.
