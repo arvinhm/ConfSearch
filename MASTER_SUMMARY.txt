@@ -1,0 +1,90 @@
+COMPREHENSIVE PEPTIDE LIBRARY - MASTER SUMMARY
+============================================================
+Generated for AI conformational training and fragment-peptide mimicry prediction
+
+OVERVIEW:
+Total peptides: 2,000,000
+Generation time: 2.5 minutes (0.0 hours)
+Peptide lengths: 3-12 amino acids
+Files generated: 10 separate files
+
+LENGTH DISTRIBUTION:
+----------------------------------------
+Length  3: 8,000 peptides (100% (ALL POSSIBLE)) - comprehensive_peptide_library/peptides_length_3.txt
+           Strategy: Complete enumeration
+           Time: 0.0 min
+
+Length  4: 160,000 peptides (100% (ALL POSSIBLE)) - comprehensive_peptide_library/peptides_length_4.txt
+           Strategy: Complete enumeration
+           Time: 0.0 min
+
+Length  5: 400,000 peptides (12.50000000%) - comprehensive_peptide_library/peptides_length_5.txt
+           Strategy: Maximal diversity sampling
+           Time: 0.5 min
+           Avg hydrophobicity: -0.50
+           Avg charge: 0.1
+           Charge range: (-2, 2.5)
+           Hydrophobicity range: (np.float64(-3.34), np.float64(2.5799999999999996))
+
+Length  6: 350,000 peptides (0.54687500%) - comprehensive_peptide_library/peptides_length_6.txt
+           Strategy: Maximal diversity sampling
+           Time: 0.4 min
+           Avg hydrophobicity: -0.18
+           Avg charge: 0.1
+           Charge range: (-3, 3)
+           Hydrophobicity range: (np.float64(-2.9333333333333336), np.float64(2.5833333333333335))
+
+Length  7: 300,000 peptides (0.02343750%) - comprehensive_peptide_library/peptides_length_7.txt
+           Strategy: Maximal diversity sampling
+           Time: 0.4 min
+           Avg hydrophobicity: -0.36
+           Avg charge: 0.1
+           Charge range: (-3, 3)
+           Hydrophobicity range: (np.float64(-3.1714285714285713), np.float64(2.1714285714285717))
+
+Length  8: 250,000 peptides (0.00097656%) - comprehensive_peptide_library/peptides_length_8.txt
+           Strategy: Maximal diversity sampling
+           Time: 0.3 min
+           Avg hydrophobicity: -0.41
+           Avg charge: 0.1
+           Charge range: (-4, 4)
+           Hydrophobicity range: (np.float64(-2.9125), np.float64(2.175))
+
+Length  9: 200,000 peptides (0.00003906%) - comprehensive_peptide_library/peptides_length_9.txt
+           Strategy: Maximal diversity sampling
+           Time: 0.2 min
+           Avg hydrophobicity: -0.36
+           Avg charge: 0.1
+           Charge range: (-5, 4)
+           Hydrophobicity range: (np.float64(-2.644444444444444), np.float64(2.7888888888888888))
+
+Length 10: 150,000 peptides (0.00000146%) - comprehensive_peptide_library/peptides_length_10.txt
+           Strategy: Maximal diversity sampling
+           Time: 0.2 min
+           Avg hydrophobicity: -0.35
+           Avg charge: 0.1
+           Charge range: (-5, 6)
+           Hydrophobicity range: (np.float64(-2.8), np.float64(2.5799999999999996))
+
+Length 11: 100,000 peptides (0.00000005%) - comprehensive_peptide_library/peptides_length_11.txt
+           Strategy: Maximal diversity sampling
+           Time: 0.2 min
+           Avg hydrophobicity: -0.26
+           Avg charge: 0.1
+           Charge range: (-5, 5.5)
+           Hydrophobicity range: (np.float64(-2.5818181818181816), np.float64(1.9909090909090912))
+
+Length 12: 82,000 peptides (0.00000000%) - comprehensive_peptide_library/peptides_length_12.txt
+           Strategy: Maximal diversity sampling
+           Time: 0.2 min
+           Avg hydrophobicity: -0.36
+           Avg charge: 0.1
+           Charge range: (-6, 7)
+           Hydrophobicity range: (np.float64(-2.8249999999999997), np.float64(2.1666666666666665))
+
+USAGE INSTRUCTIONS:
+----------------------------------------
+1. Each file contains peptides of a single length
+2. Files are ready for MacroModel conformational search
+3. Use appropriate .com file parameters for each length
+4. Combine results for comprehensive AI training dataset

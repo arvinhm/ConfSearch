@@ -1,0 +1,168 @@
+{
+  "3": {
+    "count": 8000,
+    "coverage": "100% (ALL POSSIBLE)",
+    "strategy": "Complete enumeration",
+    "time_minutes": 0.0006270805994669596,
+    "filename": "comprehensive_peptide_library/peptides_length_3.txt"
+  },
+  "4": {
+    "count": 160000,
+    "coverage": "100% (ALL POSSIBLE)",
+    "strategy": "Complete enumeration",
+    "time_minutes": 0.001028454303741455,
+    "filename": "comprehensive_peptide_library/peptides_length_4.txt"
+  },
+  "5": {
+    "count": 400000,
+    "coverage": "12.50000000%",
+    "strategy": "Maximal diversity sampling",
+    "time_minutes": 0.4821472724278768,
+    "filename": "comprehensive_peptide_library/peptides_length_5.txt",
+    "avg_hydrophobicity": -0.49726,
+    "avg_charge": 0.066,
+    "avg_flexibility": 0.6113399999999999,
+    "charge_range": [
+      -2,
+      2.5
+    ],
+    "hydrophob_range": [
+      -3.34,
+      2.5799999999999996
+    ],
+    "avg_amphipathicity": 0.6707200000000002
+  },
+  "6": {
+    "count": 350000,
+    "coverage": "0.54687500%",
+    "strategy": "Maximal diversity sampling",
+    "time_minutes": 0.3700264811515808,
+    "filename": "comprehensive_peptide_library/peptides_length_6.txt",
+    "avg_hydrophobicity": -0.17808333333333337,
+    "avg_charge": 0.0915,
+    "avg_flexibility": 0.6058166666666666,
+    "charge_range": [
+      -3,
+      3
+    ],
+    "hydrophob_range": [
+      -2.9333333333333336,
+      2.5833333333333335
+    ],
+    "avg_amphipathicity": 0.7438888888888889
+  },
+  "7": {
+    "count": 300000,
+    "coverage": "0.02343750%",
+    "strategy": "Maximal diversity sampling",
+    "time_minutes": 0.3722897569338481,
+    "filename": "comprehensive_peptide_library/peptides_length_7.txt",
+    "avg_hydrophobicity": -0.3632857142857143,
+    "avg_charge": 0.136,
+    "avg_flexibility": 0.6143857142857142,
+    "charge_range": [
+      -3,
+      3
+    ],
+    "hydrophob_range": [
+      -3.1714285714285713,
+      2.1714285714285717
+    ],
+    "avg_amphipathicity": 0.7384489795918368
+  },
+  "8": {
+    "count": 250000,
+    "coverage": "0.00097656%",
+    "strategy": "Maximal diversity sampling",
+    "time_minutes": 0.3361271341641744,
+    "filename": "comprehensive_peptide_library/peptides_length_8.txt",
+    "avg_hydrophobicity": -0.40777500000000005,
+    "avg_charge": 0.108,
+    "avg_flexibility": 0.6141749999999999,
+    "charge_range": [
+      -4,
+      4
+    ],
+    "hydrophob_range": [
+      -2.9125,
+      2.175
+    ],
+    "avg_amphipathicity": 0.717875
+  },
+  "9": {
+    "count": 200000,
+    "coverage": "0.00003906%",
+    "strategy": "Maximal diversity sampling",
+    "time_minutes": 0.24483421643575032,
+    "filename": "comprehensive_peptide_library/peptides_length_9.txt",
+    "avg_hydrophobicity": -0.3607111111111111,
+    "avg_charge": 0.0615,
+    "avg_flexibility": 0.6141444444444444,
+    "charge_range": [
+      -5,
+      4
+    ],
+    "hydrophob_range": [
+      -2.644444444444444,
+      2.7888888888888888
+    ],
+    "avg_amphipathicity": 0.7075555555555555
+  },
+  "10": {
+    "count": 150000,
+    "coverage": "0.00000146%",
+    "strategy": "Maximal diversity sampling",
+    "time_minutes": 0.24276130199432372,
+    "filename": "comprehensive_peptide_library/peptides_length_10.txt",
+    "avg_hydrophobicity": -0.34955,
+    "avg_charge": 0.114,
+    "avg_flexibility": 0.6136800000000001,
+    "charge_range": [
+      -5,
+      6
+    ],
+    "hydrophob_range": [
+      -2.8,
+      2.5799999999999996
+    ],
+    "avg_amphipathicity": 0.7057599999999999
+  },
+  "11": {
+    "count": 100000,
+    "coverage": "0.00000005%",
+    "strategy": "Maximal diversity sampling",
+    "time_minutes": 0.23338682651519777,
+    "filename": "comprehensive_peptide_library/peptides_length_11.txt",
+    "avg_hydrophobicity": -0.2621454545454545,
+    "avg_charge": 0.1225,
+    "avg_flexibility": 0.6050090909090909,
+    "charge_range": [
+      -5,
+      5.5
+    ],
+    "hydrophob_range": [
+      -2.5818181818181816,
+      1.9909090909090912
+    ],
+    "avg_amphipathicity": 0.7214545454545452
+  },
+  "12": {
+    "count": 82000,
+    "coverage": "0.00000000%",
+    "strategy": "Maximal diversity sampling",
+    "time_minutes": 0.18034119606018068,
+    "filename": "comprehensive_peptide_library/peptides_length_12.txt",
+    "avg_hydrophobicity": -0.3554166666666666,
+    "avg_charge": 0.1385,
+    "avg_flexibility": 0.6090083333333334,
+    "charge_range": [
+      -6,
+      7
+    ],
+    "hydrophob_range": [
+      -2.8249999999999997,
+      2.1666666666666665
+    ],
+    "avg_amphipathicity": 0.719
+  }
+}
