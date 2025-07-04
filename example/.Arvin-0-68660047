@@ -1,0 +1,75 @@
+filesize: 3330
+JobId: Arvin-0-68660047
+Name: peptide_3mer_optimized
+Program: MacroModel
+Processors: 1
+OrigLaunchHost: Arvin
+OrigLaunchDir: E:\Peptide_ConfSearch\comprehensive_peptide_library\3AA
+Host: Arvin
+User: arvin
+Dir: E:\Peptide_ConfSearch\comprehensive_peptide_library\3AA
+HostsFile: C:\Program Files\Schrodinger2025-2\schrodinger.hosts
+HostEntry: localhost
+Commandline: C:/Program Files/Schrodinger2025-2\macromodel.exe -WAIT peptide_3mer_optimized.com
+MmshareExec: C:\Program Files\Schrodinger2025-2\mmshare-v7.0\bin\Windows-x64
+JobHost: Arvin
+JobUser: arvin
+JobDir: :tmpdir:
+JobDB: C:\Users\arvin\AppData\Local\Schrodinger\.jobdb2
+JobMmshareExec: C:\Program Files\Schrodinger2025-2\mmshare-v7.0\bin\Windows-x64
+JobPort: 54472
+JobPid: 25476
+Status: started
+LastStatus: launched
+Summary: The job directory has been created on Arvin.
+Command: BASE64 KCB0aW1lICJDOlxQcm9ncmFtIEZpbGVzXFNjaHJvZGluZ2VyMjAyNS0yL3J1biIgIkM6XFByb2dyYW0gRmlsZXNcU2Nocm9kaW5nZXIyMDI1LTJcbWFjcm9tb2RlbC12MTQuOFxiaW5cV2luZG93cy14NjRcYm1pbiIgPCBwZXB0aWRlXzNtZXJfb3B0aW1pemVkLmNvbSApID4gInBlcHRpZGVfM21lcl9vcHRpbWl6ZWQubG9nIiAyPiYx
+Home: C:\Users\arvin
+Timezone: -0400
+LaunchTime: 2025-07-03-00:00:07
+StatusTime: 2025-07-03-00:00:08
+StructureMonitorFile: peptide_3mer_optimized-mon.maegz
+StructureOutputFile: peptide_3mer_conf_out.maegz
+LogInterval: 60
+SaveJobDir: 0
+TmpLaunchDir: 0
+AutoCleanup: 0
+InputFiles[1]:	peptide_3mer.mae
+InputFiles[2]:	peptide_3mer_optimized.com
+OutputFiles[1]:	peptide_3mer_conf_out.maegz
+OutputFiles[2]:	peptide_3mer_conf_out.ino
+OutputFiles[3]:	peptide_3mer.inf
+OutputFiles[4]:	peptide_3mer_conf_out.ou2
+OutputFiles[5]:	peptide_3mer_conf_out.ou5
+OutputFiles[6]:	peptide_3mer_conf_out.ou1
+OutputFiles[7]:	peptide_3mer_conf_out.lcp
+OutputFiles[8]:	peptide_3mer_conf_out.ou6
+OutputFiles[9]:	peptide_3mer_conf_out.ou3
+OutputFiles[10]:	peptide_3mer_conf_out.grd
+OutputFiles[11]:	peptide_3mer_conf_out.vel
+OutputFiles[12]:	peptide_3mer_conf_out.ou4
+OutputFiles[13]:	peptide_3mer_conf_out.sbc
+OutputFiles[14]:	peptide_3mer_conf_out.jwr
+OutputFiles[15]:	peptide_3mertmp
+OutputFiles[16]:	peptide_3mer.tmp
+OutputFiles[17]:	peptide_3mer_conf_out.mmo
+OutputFiles[18]:	peptide_3mer_conf_out-bad.maegz
+MonitorFiles[1]:	peptide_3mer_optimized-mon.maegz
+LogFiles[1]:	peptide_3mer_optimized.log
+Licenses[1]:	MMOD_MACROMODEL:2
+Envs[1]:	HOME_MMSHARE_EXEC="C:\Program Files\Schrodinger2025-2\mmshare-v7.0\bin\Windows-x64"
+Envs[2]:	JOBNAME=peptide_3mer_optimized
+Envs[3]:	MMOD_EXEC="C:\Program Files\Schrodinger2025-2\macromodel-v14.8\bin\Windows-x64"
+Envs[4]:	MMSHARE_EXEC="C:\Program Files\Schrodinger2025-2\mmshare-v7.0\bin\Windows-x64"
+Envs[5]:	SCHRODINGER="C:\Program Files\Schrodinger2025-2"
+Envs[6]:	SCHRODINGER_APP_EXEC=MMOD_EXEC
+Envs[7]:	SCHRODINGER_COMMANDLINE="C:/Program Files/Schrodinger2025-2\macromodel.exe -WAIT peptide_3mer_optimized.com"
+Envs[8]:	SCHRODINGER_DEFAULT_DIR=C:\Users\arvin\OneDrive\Documents\Schrodinger
+Envs[9]:	SCHRODINGER_EXEC="C:\Program Files\Schrodinger2025-2\internal\bin"
+Envs[10]:	SCHRODINGER_FEATUREFLAGS_HIDE_SITE_STATE=1
+Envs[11]:	SCHRODINGER_FEATURE_FLAGS=0
+Envs[12]:	SCHRODINGER_JOBID=Arvin-0-68660047
+Envs[13]:	SCHRODINGER_PERL_FEATURE_FLAGS_ENABLED=SMART_LICENSE_CHECK
+Envs[14]:	SCHRODINGER_PRODUCT=macromodel
+Envs[15]:	SCHRODINGER_RING_TEMPLATE_SOURCES=
+Envs[16]:	SCHRODINGER_TPP=
+Envs[17]:	SCHRODINGER_UMASK=0
